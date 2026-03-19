@@ -1,0 +1,4 @@
+to run just go and run 
+python application.py in terminal
+ then go on browser adn do this 
+http://127.0.0.1:5000/predict
